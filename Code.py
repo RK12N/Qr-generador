@@ -1,5 +1,5 @@
 import qrcode
-texto = "https://www.youtube.com/watch?v=h7BiXr81Guw"
+texto = "url"
 
 qr=qrcode.QRCode(version=7,
                  box_size=10,
